@@ -52,6 +52,7 @@
     NSLog(@"winzlee1");
     
     NSLog(@"winzlee1.1 第一次");
+    NSLog(@"winzlee1.1 第二次");
     
     NSLog(@"winzlee2");
     
