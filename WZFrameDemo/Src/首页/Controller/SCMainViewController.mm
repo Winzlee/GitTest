@@ -49,7 +49,9 @@
     
 //    [self test];
     
-    NSLog(@"winzlee");
+    NSLog(@"winzlee1");
+    
+    NSLog(@"winzlee2");
     
 //    _imageCount = 5;
 //
