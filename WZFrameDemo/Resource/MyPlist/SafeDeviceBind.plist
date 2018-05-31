@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>设备昵称:</string>
+		<key>placeholder</key>
+		<string>设备昵称用于区分设备</string>
+		<key>needArrow</key>
+		<string>0</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>手动定位:</string>
+		<key>placeholder</key>
+		<string>默认为自动定位</string>
+		<key>needArrow</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>安装地址:</string>
+		<key>placeholder</key>
+		<string></string>
+		<key>needArrow</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>详细地址:</string>
+		<key>placeholder</key>
+		<string>请填写详细地址</string>
+		<key>needArrow</key>
+		<string>0</string>
+	</dict>
+</array>
+</plist>

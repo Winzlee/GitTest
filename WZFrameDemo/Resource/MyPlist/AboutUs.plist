@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>微信公众号</string>
+		<key>content</key>
+		<string>爱一城科技</string>
+		<key>image</key>
+		<string>aboutUs_wx</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>联系电话</string>
+		<key>content</key>
+		<string>010-67869803</string>
+		<key>image</key>
+		<string>aboutUs_tel</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>电子邮箱</string>
+		<key>content</key>
+		<string>sales@onecitycare.com</string>
+		<key>image</key>
+		<string>aboutUs_email</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>官网网站</string>
+		<key>content</key>
+		<string>https://www.onecitycare.com</string>
+		<key>image</key>
+		<string>aboutUs_net</string>
+	</dict>
+</array>
+</plist>
