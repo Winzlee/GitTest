@@ -47,7 +47,9 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    [self test];
+//    [self test];
+    
+    NSLog(@"winzlee");
     
 //    _imageCount = 5;
 //
