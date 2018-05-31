@@ -51,6 +51,8 @@
     
     NSLog(@"winzlee1");
     
+    NSLog(@"winzlee1.1 第一次");
+    
     NSLog(@"winzlee2");
     
 //    _imageCount = 5;
