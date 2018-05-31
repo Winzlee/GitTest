@@ -47,6 +47,9 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
+    NSLog(@"winzlee master 第一次修改");
+    
+    
     [self test];
     
 //    _imageCount = 5;
