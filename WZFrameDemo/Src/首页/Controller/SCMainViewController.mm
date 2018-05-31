@@ -63,6 +63,9 @@
     
     NSLog(@"winzlee2");
     
+    
+    NSLog(@"winzlee master 第二次修改");
+    
 //    _imageCount = 5;
 //
 //    //定义图片控件
